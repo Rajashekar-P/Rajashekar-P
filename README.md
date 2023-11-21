@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <p>
   <h4>Reach me</h4>
   <a href="https://www.linkedin.com/in/rajashekar-p-39a596158/"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/itsjamwant"><img src="https://img.icons8.com/android/24/000000/twitter.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jamwant.netlify.app/"><img src="https://img.icons8.com/ios-filled/24/000000/portfolio.png"/></a>
+<!--     <a href="https://twitter.com/itsjamwant"><img src="https://img.icons8.com/android/24/000000/twitter.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jamwant.netlify.app/"><img src="https://img.icons8.com/ios-filled/24/000000/portfolio.png"/></a> -->
 </p>
   <h4> 🔭<samp> Tech Stack</samp></h4>
   <p >
